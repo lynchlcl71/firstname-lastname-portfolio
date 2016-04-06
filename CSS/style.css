@@ -4,6 +4,7 @@ h1 {
 
 h2, h3 {
 	padding-left: 2rem;
+    padding-top: 2rem;
 }
 
 li {
@@ -21,9 +22,14 @@ h5 {
 
 p {
     padding-left: 2rem;
+    padding-top: 2rem;
     font-size: 20px;
     color: #800000;
-    font-weight: 550;
+    font-weight: 750;
+}
+
+.space {
+    padding-top: 0;
 }
 
 .social {
