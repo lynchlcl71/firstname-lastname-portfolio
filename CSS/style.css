@@ -147,8 +147,8 @@ ol, ul {
         padding: 3em 0;
     }
 
-    h1, h2 {
+    h1, h2, h3, p {
         font-size: 3em;
     }
-   
-  }
+
+}
