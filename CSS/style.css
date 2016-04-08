@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background-color: beige;
+    background-color: #f5f5dc;
     padding-top: 20px;
 }
 
@@ -35,12 +35,12 @@ h2 {
 
 p {
     padding-left: 2rem;
-    padding-top: 75px;
-    padding-bottom: 75px;
+    padding-top: 65px;
+    padding-bottom: 65px;
     font-size: 20px;
     color: #800000;
     font-weight: 750;
-    background-color: beige;
+    background-color: #f5f5dc;
 }
 
 .space {
@@ -167,7 +167,7 @@ ol, ul {
 }
 
 .thumbnail {
-    background-image: url('images/nytimeshack.png');
+    background-image: url('../images/nytimeshack.png');
     width: 90%;
     height: 150px;
     background-size: cover;
@@ -178,11 +178,11 @@ ol, ul {
 }
 
 #about .thumbnail {
-    background-image: url('images/aboutpage.jpg');
+    background-image: url('../images/aboutpage.jpg');
 }
 
 #karma .thumbnail {
-    background-image: url('images/karmaclone.jpg');
+    background-image: url('../images/karmaclone.jpg');
 }
 
 
